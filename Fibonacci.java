@@ -26,7 +26,7 @@ public final class Fibonacci {
 
     // Check if below or equal to 0.
     if (sequence <= 0) {
-      return 1;
+      return 0;
     } else if (sequence == 1) {
       // Check if equal to 1.
       return 1;
